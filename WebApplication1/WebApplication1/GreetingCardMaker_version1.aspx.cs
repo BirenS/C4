@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Drawing;
-namespace Chinmay_Solanki_Greeting_Card_Application4
+namespace yatrikdesai
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
