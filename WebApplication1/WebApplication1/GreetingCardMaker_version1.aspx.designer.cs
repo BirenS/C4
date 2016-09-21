@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Chinmay_Solanki_Greeting_Card_Application4 {
+namespace yatrikdesai {
     
     
     public partial class WebForm1 {
